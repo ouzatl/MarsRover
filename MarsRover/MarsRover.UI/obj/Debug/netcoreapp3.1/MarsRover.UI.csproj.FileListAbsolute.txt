@@ -1,0 +1,13 @@
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.AssemblyInfoInputs.cache
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.AssemblyInfo.cs
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.csproj.CoreCompileInputs.cache
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\bin\Debug\netcoreapp3.1\MarsRover.UI.exe
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\bin\Debug\netcoreapp3.1\MarsRover.UI.deps.json
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\bin\Debug\netcoreapp3.1\MarsRover.UI.runtimeconfig.json
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\bin\Debug\netcoreapp3.1\MarsRover.UI.runtimeconfig.dev.json
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\bin\Debug\netcoreapp3.1\MarsRover.UI.dll
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\bin\Debug\netcoreapp3.1\MarsRover.UI.pdb
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.dll
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.pdb
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.genruntimeconfig.cache
+C:\Users\oguz.atli\Desktop\MarsRover\MarsRover\MarsRover.UI\obj\Debug\netcoreapp3.1\MarsRover.UI.csprojAssemblyReference.cache
